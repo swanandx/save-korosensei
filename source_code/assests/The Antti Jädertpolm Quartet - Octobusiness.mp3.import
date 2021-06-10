@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/The Antti Jädertpolm Quartet - Octobusiness.mp3-881ea56f432c728f8220a74d7071bee0.mp3str"
+
+[deps]
+
+source_file="res://assests/The Antti Jädertpolm Quartet - Octobusiness.mp3"
+dest_files=[ "res://.import/The Antti Jädertpolm Quartet - Octobusiness.mp3-881ea56f432c728f8220a74d7071bee0.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
