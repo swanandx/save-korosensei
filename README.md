@@ -4,6 +4,7 @@ Dodge the bullets and save korosensei from class 3-E
 # About
 This is a simple game made using Godot game engine. Source code is available in `/source_code`. You can use it if you want or download the executable from `/bin` to enjoy the game.
 
+- Play in browser itch.io - [Click Here](https://swanandx.itch.io/save-korosensei)
 - Download for Windows(x64) - [Click Here](https://github.com/swanandx/save-korosensei/raw/main/bin/save_korosensei.exe)
 - Download for linux(x64) - [Click Here](https://github.com/swanandx/save-korosensei/raw/main/bin/save_korosensei_linux)
 
